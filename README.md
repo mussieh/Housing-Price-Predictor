@@ -1,10 +1,10 @@
 # Housing-Price-Predictor
 
-This program is used to predict Adair county (in Missouri) housing prices
-using multi-layer perceptrons (deep learning). It is basically
+This program is used to predict housing prices in Adair county (Missouri)
+using multi-layer perceptrons (deep learning). It utilizes
 a regression model to predict the selling price of properties
-based on past data, which is used to train this software agent. 
-Eighty percent of the data set is used for training purposes, while the
+based on past data which is used to train this software agent. 
+Eighty percent of the data set is used for training purposes while the
 remaining twenty percent is used for testing.
 
 ## Getting Started
