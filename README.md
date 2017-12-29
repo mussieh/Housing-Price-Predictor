@@ -19,7 +19,6 @@ What you need to install the program:
 1. Python 3.0 and above
 2. TensorFlow library
 3. NumPy (if not already installed)
-4.
 ```
 
 ### Running
