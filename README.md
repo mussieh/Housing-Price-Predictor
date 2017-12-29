@@ -1,11 +1,11 @@
 # Housing-Price-Predictor
 
-This program is used to predict the Adair county housing prices
+This program is used to predict Adair county (in Missouri) housing prices
 using multi-layer perceptrons (deep learning). It is basically
 a regression model to predict the selling price of properties
-based on past data, which is used to train this software agent.
-80% of the data set is used for training purposes, while the
-remaining 20% is used for testing.
+based on past data, which is used to train this software agent. 
+Eighty percent of the data set is used for training purposes, while the
+remaining twenty percent is used for testing.
 
 ## Getting Started
 
@@ -18,6 +18,8 @@ What you need to install the program:
 ```
 1. Python 3.0 and above
 2. TensorFlow library
+3. NumPy (if not already installed)
+4.
 ```
 
 ### Running
@@ -30,6 +32,8 @@ Useful Links
 Python: https://www.python.org/downloads/
 
 TensorFlow: https://www.tensorflow.org/install/
+
+NumPy: https://stackoverflow.com/questions/29499815/how-to-install-numpy-on-windows-using-pip-install
 
 ## Authors
 
